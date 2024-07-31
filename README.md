@@ -1,4 +1,11 @@
 ## Hi there 👋
+<img align="right" alt="GIF" src="https://github.com/YabusameHoulen/YabusameHoulen/blob/master/me.jpg" />
+
+- 😄 Pronouns: 藪雨
+- 🔭 working on astrophysics
+- 🌱 learning something weird
+- ⚡ I have learned many programming languages ​​due to my educational experience,
+- ⚡ but the only language I am familiar with is Julia ...
 
 <!--
 **YabusameHoulen/YabusameHoulen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
